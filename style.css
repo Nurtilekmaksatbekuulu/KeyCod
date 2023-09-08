@@ -1,0 +1,29 @@
+
+body{
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+.key{
+    border: 2px solid white;
+    padding: 15px 20px;
+    color:rgb(30, 31, 30);
+    font-size: 22px;
+    box-shadow: 0 0 5px 2px darkcyan ;
+    background-color: mediumseagreen;
+    margin: 15px 0 0 0;
+}
+ small{
+    top:0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    
+}
